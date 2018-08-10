@@ -1,0 +1,3 @@
+gcc game_2048.c -o 2048 -lcurses
+
+sudo apt-get install libncurses5-dev
