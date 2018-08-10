@@ -1,3 +1,3 @@
-gcc game_2048.c -o 2048 -lcurses
+一个图形界面库：sudo apt-get install libncurses5-dev
 
-sudo apt-get install libncurses5-dev
+编译：make
