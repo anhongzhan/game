@@ -1,3 +1,5 @@
 一个图形界面库：sudo apt-get install libncurses5-dev
 
 编译：make
+
+退出：Ctrl + C
